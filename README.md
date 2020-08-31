@@ -6,3 +6,4 @@ This project is solely based upon python and I have used python based framework 
 # Django Based Travel Web App
 
 I have also built a demo web app based upon traveling where you can use book tickets for different traveling destinations. This project uses database POSTGRESQL to render different images of destinations
+https://github.com/pacificadora/Django-Based-Web-App
